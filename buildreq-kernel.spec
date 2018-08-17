@@ -7,6 +7,20 @@ Url:            https://clearlinux.org/
 Group:          base
 Requires:	gmp-dev
 Requires:	mpc-dev
+Requires:  bash 
+Requires:  bc
+Requires:  binutils-dev
+Requires:  elfutils-dev
+Requires:  kernel-config
+Requires:  make >= 3.78
+Requires:  openssl-dev
+Requires:  flex
+Requires:  bison
+Requires:  kmod
+Requires:  linux-firmware
+Requires:  kernel-install
+Requires:  cpio-bin
+Requires:  xz
 
 
 
