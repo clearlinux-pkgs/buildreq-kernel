@@ -22,8 +22,7 @@ Requires:       linux-firmware
 Requires:       kernel-install
 Requires:       cpio-bin
 Requires:       xz
-
-
+Requires:       lz4
 
 %description
 Helper files 
@@ -33,6 +32,5 @@ Helper files
 %build
 
 %install
-
 
 %files
