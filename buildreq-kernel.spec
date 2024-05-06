@@ -1,6 +1,6 @@
 Name:           buildreq-kernel
 Version:        1
-Release:        10
+Release:        11
 License:        GPL-2.0
 Summary:        Helper files
 Url:            https://clearlinux.org/
@@ -10,6 +10,7 @@ Requires:       bc
 Requires:       binutils-dev
 Requires:       bison
 Requires:       cpio-bin
+Requires:       dwarves
 Requires:       elfutils-dev
 Requires:       flex
 Requires:       gmp-dev
